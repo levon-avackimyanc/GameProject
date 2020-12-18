@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyCourseProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5956CCB8-8E61-4D49-8ADB-04FA55C21E1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyCourseProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyCourseProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2E8871D4-B0D7-4E28-925E-2C05D659EF82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyCourseProject">
+      <UniqueIdentifier>{3A99D76B-EDA4-41E8-97BA-4898C190530D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyCharacter.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyCharacter.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyCourseProject\MyCourseProject.Build.cs">
+      <Filter>Source\MyCourseProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyCourseProject.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyCourseProject.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyCourseProjectGameModeBase.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyCourseProjectGameModeBase.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyDonuts.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyDonuts.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyDonutSpawn.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyDonutSpawn.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyDonutSpawnComponent.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyDonutSpawnComponent.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyFloorActor.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyFloorActor.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyCourseProject\MyObstacles.cpp">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCourseProject\MyObstacles.h">
+      <Filter>Source\MyCourseProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

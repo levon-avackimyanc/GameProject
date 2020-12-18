@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyCourseProject-0300.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\MyCourseProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyCharacter.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyCourseProject.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyCourseProjectGameModeBase.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyDonuts.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyDonutSpawn.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyDonutSpawnComponent.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyCharacter.gen.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyCourseProject.init.gen.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyCourseProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyDonuts.gen.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyDonutSpawn.gen.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\MyDonutSpawnComponent.gen.cpp.obj"
+"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\Default.rc2.res"
+/OUT:"C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\UE4Editor-MyCourseProject-0300.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyCourseProject

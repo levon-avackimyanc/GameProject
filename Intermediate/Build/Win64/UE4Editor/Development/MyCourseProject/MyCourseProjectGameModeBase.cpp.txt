@@ -1,0 +1,7 @@
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\Definitions.MyCourseProject.h
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Source\MyCourseProject\MyCourseProjectGameModeBase.h
+D:\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Inc\MyCourseProject\MyCourseProjectGameModeBase.generated.h

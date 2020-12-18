@@ -1,0 +1,2 @@
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\Definitions.MyCourseProject.h
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Source\MyCourseProject\MyCourseProject.h

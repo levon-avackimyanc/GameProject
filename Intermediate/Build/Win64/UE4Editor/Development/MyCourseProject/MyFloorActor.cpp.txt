@@ -1,0 +1,7 @@
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\Definitions.MyCourseProject.h
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Source\MyCourseProject\MyFloorActor.h
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Inc\MyCourseProject\MyFloorActor.generated.h
+D:\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h

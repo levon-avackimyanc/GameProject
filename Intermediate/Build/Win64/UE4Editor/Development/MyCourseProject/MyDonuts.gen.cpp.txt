@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Development\MyCourseProject\Definitions.MyCourseProject.h
+D:\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Source\MyCourseProject/MyDonuts.h
+C:\Users\Acer\Documents\Unreal Projects\MyCourseProject\Intermediate\Build\Win64\UE4Editor\Inc\MyCourseProject\MyDonuts.generated.h

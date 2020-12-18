@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyCourseProject",
+			"Path": "C:\\Users\\Acer\\Documents\\Unreal Projects\\MyCourseProject\\Source\\MyCourseProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyCourseProjectEditor",
+			"Path": "C:\\Users\\Acer\\Documents\\Unreal Projects\\MyCourseProject\\Source\\MyCourseProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
